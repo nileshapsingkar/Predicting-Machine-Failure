@@ -34,7 +34,7 @@ This project requires a dataset to train the machine learning model. A sample da
 ### Steps
  1. Clone the repository and navigate to the project folder:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/nileshapsingkar/Predicting-Machine-Failure
    cd project/
 ```
 2. Create a virtual environment and activate it:
